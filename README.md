@@ -1,2 +1,2 @@
 # Automotives
-This repository is an analysis of the vehicle types
+This repository is an analysis of the type of vehicle in terms of sales(pricing)and their popularity
