@@ -8,8 +8,6 @@ An interactive Streamlit app that analyzes automobile pricing data to identify w
 - Runs statistical tests to validate which features are significantly associated with price
 - Surfaces findings through an interactive Streamlit interface
 
-## Key finding
-*(Fill in: e.g. "Engine size and horsepower were the strongest predictors of price, together explaining X% of price variance, while mileage had a weaker but still significant negative correlation.")*
 
 ## Tech stack
 Python, pandas, scikit-learn (if used), Streamlit, [stats library — e.g. scipy/statsmodels]
@@ -23,15 +21,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Screenshot
-*(Add a screenshot or GIF of the app here)*
 
-## Live demo
-*(If you deploy this on Streamlit Community Cloud — free — link it here. This alone makes the project dramatically more clickable in an application.)*
-
-## Data
-*(Name the dataset and source, e.g. "UCI Automobile dataset" with a link)*
- on a next step, e.g. "Add a price-prediction model with confidence intervals" or "Expand to multi-market pricing data.")*
 
 
 Key contributions:
