@@ -20,7 +20,7 @@ Pearson correlation of each feature against price (201 vehicles, 29 features):
 
 All correlations are statistically significant (p < 0.001).
 
-**Takeaway:** engine size, weight, and horsepower — not fuel economy or wheelbase — are the dominant price drivers in this dataset, together explaining most of the price variation. Pricing/positioning strategy should weight these three features most heavily.
+**Takeaway:** engine size, weight, and horsepower *not fuel economy or wheelbase * are the dominant price drivers in this dataset, together explaining most of the price variation. Pricing/positioning strategy should weight these three features most heavily.
 
 ## What it does
 
