@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy import stats
 
-st.title("Automobile Data Analysis - Exam Part 2 📊")
+st.title("Automobile Data Analysis - ")
 
 # =============================================================================
 # 1. Load Data
